@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ammarrashid
 - 👀 I’m interested in software development and game development
 - 🌱 I’m currently learning about everything i can
-- 💞️ I’m looking to collaborate on everythimg you got
+- 💞️ I’m looking to collaborate on everything you got
 - 📫 you can reach me at ammaralirashid1@gmail.com
 
 <!---
